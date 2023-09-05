@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.img{
+    background-image: url("img/image1.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.heading{
+    /* background-color: black;
+    color: white; */
+    position: relative;
+    text-align: center;
+    width: 100%;
+    top: 50%;
+}
+.center{
+    background: #313534;
+    color: white;
+    padding: 25px;
+    font-size: 3vw;
+    letter-spacing: 4.3px;
+    word-spacing: 5px;
+}
+.one{
+    /* height: 30vh; */
+    text-align: center;
+    padding: 60px;
+}
+.one h1{
+    font-size: 28px;
+    color: #666;
+    font-variant: small-caps;
+    font-weight: 300;
+}
+.one p{
+    color:#313534 ;
+    padding: 20px;
+    word-spacing: 5px;
+    font-variant: small-caps;
+    font-weight: 300;
+    
+}
+.dark{
+    background-color: #313534;
+    color: white;
+    /* height: 30vh; */
+    text-align: center;
+    padding: 60px;
+
+}
+.dark h1{
+    font-size: 28px;
+    font-variant: small-caps;
+    font-weight: 300;
+}
+.dark p{
+    padding: 20px;
+    word-spacing: 5px;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-weight: 300;
+}
+.img2{
+    background-image: url("./img/image2.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+}
+.img3{
+    background-image: url("./img/image3.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+}
